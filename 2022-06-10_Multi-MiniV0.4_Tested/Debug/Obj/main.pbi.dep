@@ -1,0 +1,10 @@
+main.pbi: \
+  C:\Users\Ascos\Documents\IAR\ workspace\2022-06-07\ Multi-MiniV0.4_Tested\main.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\avr\inc\ioavr.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\avr\inc/iotiny40.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\avr\inc/iomacro.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\avr\inc/bitdefinitions/iotiny40.inc \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\avr\inc\intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\avr\inc\clib\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.4\avr\inc\clib/sysmac.h \
+  C:\Users\Ascos\Documents\IAR\ workspace\2022-06-07\ Multi-MiniV0.4_Tested/main.h

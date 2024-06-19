@@ -1,0 +1,11 @@
+"--cpu=tiny40" 
+
+"-p" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.4\avr\Config\iotiny40.ddf" 
+
+"--disable_internal_eeprom" 
+
+
+
+
